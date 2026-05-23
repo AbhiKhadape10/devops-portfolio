@@ -1,0 +1,10 @@
+# Copy to terraform.tfvars and customize.
+# terraform.tfvars is gitignored.
+
+aws_region    = "us-east-1"
+project_name  = "demo-app"
+environment   = "dev"
+instance_type = "t3.micro"
+
+# Used for any admin/internal CIDR rules — note SSH is disabled by design.
+allowed_admin_cidr = "10.0.0.0/8"
