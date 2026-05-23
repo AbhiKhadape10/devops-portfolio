@@ -1,3 +1,8 @@
+![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Multi--stage-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28+-326CE5?logo=kubernetes)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 # DevOps Portfolio
 
 Infrastructure-as-code, CI/CD, and container orchestration patterns demonstrating production-grade DevOps practices on AWS.
