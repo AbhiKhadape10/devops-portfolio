@@ -110,6 +110,14 @@ A bad commit fails in 30 seconds, not 6 minutes.
 - **Application**: Python 3.12, FastAPI
 - **Security tooling**: Trivy, Bandit
 
+## 💰 Cost Estimate
+
+Running this full stack in `us-east-1`:
+- EC2 t3.micro: ~$7.50/month
+- S3 storage (1GB): ~$0.02/month
+- EKS cluster: ~$73/month (control plane)
+- Total: ~$80/month (destroy when not in use)
+
 ## License
 
 MIT — fork & adapt freely.
